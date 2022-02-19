@@ -1,0 +1,19 @@
+body {
+  background-color: red; }
+
+.skilld__tittle {
+  background-color: #fff; }
+
+.skilld__text {
+  font-style: 200px; }
+
+.skilld__column {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex; }
+
+.skilld__row {
+  margin-right: 40px;
+  width: 500px;
+  height: 500px;
+  background-color: sandybrown; }

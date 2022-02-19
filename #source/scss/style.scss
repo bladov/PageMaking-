@@ -1,0 +1,33 @@
+body {
+    background-color: red;
+}
+
+.skilld {
+
+    // .skilld__tittle
+
+    &__tittle {
+        background-color: #fff;
+    }
+
+    // .skilld__text
+
+    &__text {
+        font-style: 200px;
+    }
+
+    // .skilld__column
+
+    &__column {
+        display: flex;
+    }
+
+    // .skilld__row
+
+    &__row {
+        margin-right: 40px;
+        width: 500px;
+        height: 500px;
+        background-color: sandybrown;
+    }
+}
